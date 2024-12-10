@@ -48,7 +48,7 @@ Next I assigned IP addressing for the internal network. The external network alr
 ![image](https://github.com/user-attachments/assets/f0779f36-7ba9-43c7-b7e1-e017d1438303)
 
 ##  Installed Active Directory Domain Services and created the domain
-![image](https://github.com/user-attachments/assets/caf0e0f5-8759-41e6-82db-3f46d63cbbe6)
+![353981437-caf0e0f5-8759-41e6-82db-3f46d63cbbe6](https://github.com/user-attachments/assets/88b0cfae-1935-4d51-a032-a633d8d7d83c)
 ![image](https://github.com/user-attachments/assets/117be3de-4cc1-48fd-80c8-fd479305d7eb)
 ![image](https://github.com/user-attachments/assets/0ba05476-ae22-46f2-ab04-f7c441bbf2ad)
 ![image](https://github.com/user-attachments/assets/e90375fa-3238-453d-b5ed-ce01f267a166)
