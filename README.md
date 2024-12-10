@@ -72,7 +72,7 @@ This allows Client 1 to acess the internet through the domain controller
 ![image](https://github.com/user-attachments/assets/c7351538-2582-493c-a0a1-93a8923c5538)
 ![image](https://github.com/user-attachments/assets/4b840be7-c633-4168-9ac5-9ecfb589c437)
 ![image](https://github.com/user-attachments/assets/56ae23d3-050f-4736-ab10-2b51d1331249)
-![image](https://github.com/user-attachments/assets/39ae108b-3f68-4a7c-b950-6f5c747f196b)
+![353997931-39ae108b-3f68-4a7c-b950-6f5c747f196b](https://github.com/user-attachments/assets/f2bced77-d14c-4100-8e4c-024b0fdd17e8)
 ![image](https://github.com/user-attachments/assets/74776873-8f95-4c84-90ec-e1a0d7e4200c)
 
 ##  Configured DHCP on the domain controller
