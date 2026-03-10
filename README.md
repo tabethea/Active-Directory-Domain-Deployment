@@ -14,7 +14,8 @@ This repository contains a step by step walkthrough of how i created an Active D
 - <b>Windows 11</b>
 
 ## Diagram
-![AD](https://github.com/user-attachments/assets/c1cb1529-ec9c-4e74-b166-b79d1d078a18)
+<img width="1814" height="1079" alt="ad diagram" src="https://github.com/user-attachments/assets/d1487a41-bbf7-49e3-a846-be5652136100" />
+
 
 # Walkthrough:
 ## Downloaded Oracle VirtualBox
