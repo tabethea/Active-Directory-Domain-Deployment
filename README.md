@@ -1,4 +1,4 @@
-# Active Directory Lab
+# Active-Directory-Domain-Deployment
 
 ## Description
 This repository contains a step by step walkthrough of how i created an Active Directory lab in Oracle VirtualBox. In this lab, I set up a virtual environment using Oracle VirtualBox with Windows 11 and Windows Server 2022 ISOs, creating a Domain Controller with Active Directory, configuring network settings, and establishing a client VM connected to the domain for testing user logins. Running this lab has allowed me to gain hands-on experience with VirtualBox, Active Directory and Windows Networking.
